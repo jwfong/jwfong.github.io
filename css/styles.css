@@ -1,0 +1,43 @@
+header {
+  height: 300px;
+  background-color: #f3f3f3;
+}
+
+.header-content {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header-photo {
+  border-radius: 30px;
+}
+
+.centered {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.about {
+  height: 200px;
+}
+
+.skills {
+  height: 150px;
+}
+
+.portfolio {
+  height: 400px;
+}
+
+.education-experience {
+  height: 200px;
+}
+
+.bored {
+  height: 200px;
+}
+
+
+.footer {
+  height: 200px;
+}
