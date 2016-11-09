@@ -4,8 +4,8 @@ header {
 }
 
 .header-content {
-  /*margin: 0 auto;*/
-  /*text-align: center;*/
+  margin: 0 auto;
+  text-align: center;
 
 }
 .header-photo-container {
@@ -40,6 +40,7 @@ header {
   height: 150px;
   display: inline-block;
   background-color: #FFF59D;
+  width: 100%;
 }
 
 .logo {
